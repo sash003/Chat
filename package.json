@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "latest",
+    "consolidate": "latest",
+    "cookie-parser": "latest",
+    "cookie-session": "latest",
+    "express": "latest",
+    "handlebars": "latest",
+    "multiparty": "latest",
+    "mysql": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "request": "latest",
+    "socket.io": "^2.0.2",
+    "ws": "latest"
+  }
+}
